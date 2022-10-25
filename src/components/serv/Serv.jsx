@@ -17,15 +17,15 @@ const Serv = () => {
           <ul className='serv_list'>
             <li>
               <FiCheck className='serv_list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>Web and Visual Design</p>
             </li>
             <li>
               <FiCheck className='serv_list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>Mobile Responsive</p>
             </li>
             <li>
               <FiCheck className='serv_list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>Content Strategy</p>
             </li>
           </ul>
         </article>
@@ -37,39 +37,39 @@ const Serv = () => {
           <ul className='serv_list'>
             <li>
               <FiCheck className='serv_list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>Designing User Interfaces and Navigation Menus</p>
             </li>
             <li>
               <FiCheck className='serv_list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <FiCheck className='serv_list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>Integrating Front-End to Back-End</p>
             </li>
           </ul>
         </article>
         <article className='serv'>
           <div className="serv_head">
-            <h3>Content Creation</h3>
+            <h3>Graphic Design</h3>
           </div>
 
           <ul className='serv_list'>
             <li>
               <FiCheck className='serv_list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>Logo, Business and Label Design</p>
             </li>
             <li>
               <FiCheck className='serv_list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>Flyers, Brochures, Social Media Banner and Cover</p>
             </li>
             <li>
               <FiCheck className='serv_list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>Powerpoint, Infographic Design</p>
             </li>
             <li>
               <FiCheck className='serv_list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>3D Modelling, and Animation</p>
+            </li>
+            <li>
+              <FiCheck className='serv_list-icon'/>
+              <p>Video Editing, GIF Animation and 2D Animation</p>
             </li>
           </ul>
         </article>

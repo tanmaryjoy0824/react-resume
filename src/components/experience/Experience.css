@@ -42,6 +42,9 @@
 
 
 @media screen and (max-width: 1024px) {
+    .section_exp{
+        margin-top: 20rem;
+    }
     .experience_container{
         grid-template-columns: 1fr;
     }

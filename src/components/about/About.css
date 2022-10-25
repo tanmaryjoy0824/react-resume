@@ -35,7 +35,7 @@
 }
 
 .about_card{
-    background: rgba(var(--color-prime), 0.7);
+    background: rgba(var(--color-primary-variant), 0.7);
     border: 1px solid transparent;
     border-radius: 1rem;
     padding: 2rem;
@@ -52,10 +52,11 @@
     border-color: var(--color-prime);
     cursor: default;
     text-shadow: 1px 1px rgb(43, 42, 42, 1);
+
 }
 
 .about_icon{
-    color: var(--color-primary);
+    color: var(--color-white);
     font-size: 1.rem;
     margin-bottom: 1rem;
 }
@@ -75,6 +76,9 @@
 }
 
 @media screen and (max-width: 1024px) {
+    .abouts{
+        margin-top: 20rem;
+    }
     .about_container{
         grid-template-columns: 1fr;
         gap: 0;

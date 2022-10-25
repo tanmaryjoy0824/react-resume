@@ -16,35 +16,35 @@ const Experience = () => {
               <FaCheckCircle className='experience_details-icon' />
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Advanced</small>
               </div>
             </article>
             <article className='experience_details'>
               <FaCheckCircle className='experience_details-icon' />
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience_details'>
               <FaCheckCircle className='experience_details-icon' />
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience_details'>
               <FaCheckCircle className='experience_details-icon' />
               <div>
                 <h4>BootStrap</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
             <article className='experience_details'>
               <FaCheckCircle className='experience_details-icon' />
               <div>
                 <h4>React</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
           </div>
@@ -56,28 +56,28 @@ const Experience = () => {
               <FaCheckCircle className='experience_details-icon' />
               <div>
                 <h4>Node.js</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
             <article className='experience_details'>
               <FaCheckCircle className='experience_details-icon' />
               <div>
                 <h4>MongoDB</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
             <article className='experience_details'>
               <FaCheckCircle className='experience_details-icon' />
               <div>
                 <h4>PHP</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience_details'>
               <FaCheckCircle className='experience_details-icon' />
               <div>
                 <h4>MySQL</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>

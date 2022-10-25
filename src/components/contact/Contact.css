@@ -62,7 +62,7 @@ input, textarea{
 
 @media screen and (max-width: 1024px) {
     .contactss{
-        margin-top: 35rem;
+        margin-top: 25rem;
     }
     .container.contact_container{
         grid-template-columns: 1fr;
@@ -70,6 +70,9 @@ input, textarea{
     }
 }
 @media screen and (max-width: 600px) {
+    .contactss{
+        margin-top: -15rem;
+    }
     .container.contact_container{
         width: var(--container-width-sm);
     }

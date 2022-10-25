@@ -6,7 +6,7 @@ import { TbBrowserCheck } from 'react-icons/tb'
 
 const About = () => {
   return (
-    <section id='about'>
+    <section id='about' className='abouts'>
       <h5>Get To Know</h5>
       <h2>About Me</h2>
 
@@ -21,20 +21,20 @@ const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon' />
               <h1>Experience</h1>
-              <small>3+ Years Working</small>
-            </article>
-            <article className='about_card'>
-              <FaUsers className='about_icon' />
-              <h1>Clients</h1>
-              <small>300+</small>
+              <small>4th year BS IT Student </small>
             </article>
             <article className='about_card'>
               <TbBrowserCheck className='about_icon' />
               <h1>Projects</h1>
-              <small>80+ Completed Projects</small>
+              <small>2 Projects</small>
+            </article>
+            <article className='about_card'>
+              <FaUsers className='about_icon' />
+              <h1>Organization</h1>
+              <small>College Student Council Secretary</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At, ex animi! Maxime, accusamus a saepe quibusdam corrupti hic? Temporibus recusandae quos ratione nesciunt quod accusantium, dolorem adipisci aliquid reiciendis quibusdam?</p>
+          <p>A hard-working and visionary 4th year IT student with a passion for wed design and development. Graphic Designing is my other passion and worked with numerous clients as a photo and video editor.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

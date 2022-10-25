@@ -52,8 +52,16 @@ footer a{
     color: var(--color-bg)
 }
 
+@media screen and (max-width: 1024px) {
+    footer{
+        margin-top: 20rem;
+    }
+}
 
 @media screen and (max-width: 600px) {
+    footer{
+        margin-top: 20rem;
+    }
     .permalinks{
         flex-direction: column;
         gap: 1.5rem;

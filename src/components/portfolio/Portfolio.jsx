@@ -9,42 +9,43 @@ const data = [
     title: 'Sample',
     link: 'www.google.com',
     demo: 'www.youtube.com'
-  },
-  {
-    id: 2,
-    image: SAMPLE,
-    title: 'Sample',
-    link: 'www.google.com',
-    demo: 'www.youtube.com'
-  },
-  {
-    id: 3,
-    image: SAMPLE,
-    title: 'Sample',
-    link: 'www.google.com',
-    demo: 'www.youtube.com'
-  },
-  {
-    id: 4,
-    image: SAMPLE,
-    title: 'Sample',
-    link: 'www.google.com',
-    demo: 'www.youtube.com'
-  },
-  {
-    id: 5,
-    image: SAMPLE,
-    title: 'Sample',
-    link: 'www.google.com',
-    demo: 'www.youtube.com'
-  },
-  {
-    id: 6,
-    image: SAMPLE,
-    title: 'Sample',
-    link: 'www.google.com',
-    demo: 'www.youtube.com'
   }
+  // ,
+  // {
+  //   id: 2,
+  //   image: SAMPLE,
+  //   title: 'Sample',
+  //   link: 'www.google.com',
+  //   demo: 'www.youtube.com'
+  // },
+  // {
+  //   id: 3,
+  //   image: SAMPLE,
+  //   title: 'Sample',
+  //   link: 'www.google.com',
+  //   demo: 'www.youtube.com'
+  // },
+  // {
+  //   id: 4,
+  //   image: SAMPLE,
+  //   title: 'Sample',
+  //   link: 'www.google.com',
+  //   demo: 'www.youtube.com'
+  // },
+  // {
+  //   id: 5,
+  //   image: SAMPLE,
+  //   title: 'Sample',
+  //   link: 'www.google.com',
+  //   demo: 'www.youtube.com'
+  // },
+  // {
+  //   id: 6,
+  //   image: SAMPLE,
+  //   title: 'Sample',
+  //   link: 'www.google.com',
+  //   demo: 'www.youtube.com'
+  // }
 ]
 
 
