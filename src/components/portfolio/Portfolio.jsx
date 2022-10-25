@@ -8,7 +8,7 @@ const data = [
     image: img1,
     title: 'Sample',
     link: 'https://github.com/tanmaryjoy0824/react-resume.git',
-    demo: 'www.youtube.com'
+    demo: 'https://6357384254d1865939065aab--gentle-rolypoly-dd805d.netlify.app/'
   }
   // ,
   // {
