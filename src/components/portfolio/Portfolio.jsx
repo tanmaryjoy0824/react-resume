@@ -1,13 +1,13 @@
 import React from 'react'
 import './Portfolio.css'
-import SAMPLE from '../../assets/sample.jpg'
+import img1 from '../../assets/react-resume.png'
 
 const data = [
   {
     id: 1,
-    image: SAMPLE,
+    image: img1,
     title: 'Sample',
-    link: 'www.google.com',
+    link: 'https://github.com/tanmaryjoy0824/react-resume.git',
     demo: 'www.youtube.com'
   }
   // ,
